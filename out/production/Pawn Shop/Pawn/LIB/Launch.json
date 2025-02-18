@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configuration": [
+    {
+      "type": "java",
+      "name": "Launch DatabaseConnection",
+      "request": "launch",
+      "mainClass": "DatabaseConnection",
+      "classPaths": [
+        "/Users/molika/Downloads/Pawn/Pawn/LIB/mysql-connector-j-9.1.0.jar"
+      ]
+    }
+  ]
+}

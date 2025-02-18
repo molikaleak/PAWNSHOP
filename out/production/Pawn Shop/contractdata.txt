@@ -1,0 +1,4 @@
+
+Customer: rany, Phone: 010508872, Loan Amount: 20000.00, Duration: 24 months, Repayment Amount: 950.84, Start Date: 2024-12-02, Next Repayment Due: 2025-01-02, Loan Type ID: 4
+Customer: nika, Phone: 09827345, Loan Amount: 2100.00, Duration: 2 months, Repayment Amount: 1063.14, Start Date: 2025-12-01, Next Repayment Due: 2026-01-01, Loan Type ID: 1
+Customer: rany, Phone: 010508872, Loan Amount: 3000.00, Duration: 3 months, Repayment Amount: 1016.71, Start Date: 2025-12-01, Next Repayment Due: 2026-01-01, Loan Type ID: 1
